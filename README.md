@@ -1,5 +1,7 @@
 # deepagents-skill
 
+[中文版](README_CN.md)
+
 AI-optimized skills for building multi-agent systems with [Deep Agents](https://github.com/deep-agents) and [LangGraph](https://github.com/langchain-ai/langgraph) (`>=0.2.0`).
 
 ## Three paths
